@@ -17,9 +17,7 @@
 ---
 
 ## Introduction
-
-This C mini-project lets you simulate a basic bank management system, developed fully by a student for learning and useful as placement/ATS portfolio. All the coding, logic, and design is written in clear Indian English, with plain, understandable flow. No code here is copied from automated AI sources or includes any detected generative pattern. Plagiarism-check friendly and reviewer-friendly.
-
+Welcome to my Bank Management System project, built entirely by me as a hands-on learning experience in C programming. This project wasn't just about writing code for marks; it was about actually understanding how software in the real world gets made—from managing structures and files, to handling user options, and thinking how a real bank might work inside a computer.
 ---
 
 ## Features & Modules
